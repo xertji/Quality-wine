@@ -1,12 +1,12 @@
-# quality-wine
+# Quality-wine
 
- In this  initially exploration of dataset was done.
+ In this  initially  of dataset was done.
  
  Then plotting was done by using matplotlib and seaborn to see how columns were distributed in the dataset.
  
- #Preprocessing of Dataset
+# Preprocessing of dataset
  
- Creating categorical variables for Quality.
+ Creating categorical variables for Quality column.
  
  Splitting the dataset into 'training set' and 'test set'.
  
